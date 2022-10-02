@@ -12,3 +12,4 @@ We mean by open source, projects that others benefit from, like packages or proj
 4. [AppIssue](https://github.com/najeebaslan/AppIssue) from [@najeebaslan](https://github.com/najeebaslan) a complete flutter app to manage prison extensions dates, With all CRUD and notificaitons funcaionalities, and many more.
 5. [Flutter-Wings](https://github.com/Invention-Technology/Flutter-Wings) from [@AbdulganiAlmonifi](https://github.com/AbdulganiAlmonifi) and [@Alsharie](https://github.com/Alsharie). A structure for flutter developers.
 6. [Wammed-urway](https://github.com/Alsharie/wammed-urway) from [@Alsharie](https://github.com/Alsharie).A Laravel package for urway payment getway.
+7. [Unit conversion](https://github.com/aymanalhattami/unit-conversion) from [@aymanalhattami](https://github.com/aymanalhattami). A package to convert between units in PHP.
